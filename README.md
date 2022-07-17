@@ -4,4 +4,8 @@
 
 Converter from ANKI to Philingvo Dictionary
 
+Thanks to:
+https://pypi.org/project/AnkiTools/0.1.9/
+https://github.com/patarapolw/AnkiTools
+
 project.philingvo@gmail.com
